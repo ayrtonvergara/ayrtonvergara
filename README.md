@@ -5,7 +5,7 @@
 
  ✦ 💎Todos mis proyectos estan en [https://github.com/ayrtonvergara?tab=repositories](https://github.com/ayrtonvergara?tab=repositories)
 
- ✦ 📫Puedes enviarme un correo electrónico a **ayrtonvergara50@gmail.com**
+ ✦ 📫Puedes enviarme un correo electrónico a **ayrton.vergara.tech@gmail.com**
 <br><br>
 <hr width="60%" >
 <br>
