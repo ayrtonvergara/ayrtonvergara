@@ -1,14 +1,18 @@
-<h1 align="center">Hola👋, mi nombre es Ayrton Vergara</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ayrtonvergara&label=Profile%20views&color=0e75b6&style=flat" alt="ayrtonvergara" /> </p><h3 align="left">Soy un desarrollador👨‍💻 con experiencia en Frontend y Backend. He participado en el desarrollo completo de aplicaciones Web y Móvil en la nube☁️. Me he formado en Duoc UC obteniendo el título de ingeniería en Informática. Soy una persona sociable 🤝, empática 💛 y apasionada por el mundo de la tecnología.</h3>
+![Profile views](https://komarev.com/ghpvc/?username=ayrtonvergara&label=Profile%20views&color=0e75b6&style=flat)
+![GitHub followers](https://img.shields.io/github/followers/ayrtonvergara?style=social)
 
- ✦ 🧠Actualmente estoy explorando y profundizando mis conocimientos en **React** y **Angular** para expandir mi conjunto de habilidades en el desarrollo frontend 
 
- ✦ 💎Todos mis proyectos estan en [https://github.com/ayrtonvergara?tab=repositories](https://github.com/ayrtonvergara?tab=repositories)
+---
 
- ✦ 📫Puedes enviarme un correo electrónico a **ayrton.vergara.tech@gmail.com**
-<br><br>
-<hr width="60%" >
-<br>
+## 👨‍💻 Sobre mí
+
+Soy un desarrollador **Full Stack** con experiencia en **Frontend** y **Backend**. He participado en el desarrollo completo de aplicaciones web y móvil en la nube ☁️.  
+Me formé en **Duoc UC** obteniendo el título de **Ingeniería en Informática**.  
+Me considero una persona sociable 🤝, empática 💛 y apasionada por la tecnología.
+
+- 🧠 Actualmente profundizando en **React** y **Angular** para expandir mis habilidades en frontend.
+- 💎 Todos mis proyectos están en [Mis repositorios](https://github.com/ayrtonvergara?tab=repositories)
+- 📫 Puedes contactarme en **ayrton.vergara.tech@gmail.com**
 
 <h3 align="left">🛠️Lenguajes y Herramientas:</h3>
 
@@ -31,25 +35,25 @@
 <br><br>
  <hr width="60%" >
 
- <h3>My GitHub Stats</h3>
+ ## 📊 Estadísticas de GitHub
 
-<br>
-
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ayrtonvergara&show_icons=true&theme=dark&locale=en&layout=compact" alt="ayrtonvergara" /></p>
-
-<br><br><br><br><br><br><br>
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=ayrtonvergara&show_icons=true&theme=dark&locale=en" alt="ayrtonvergara" /></p>
-<br><br><br><br><br><br><br><br>
-<hr width="60%" >
-
-<h3 align="left">📱Contáctame:</h3>
-<br>
 <p align="left">
-
- [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayrton-vergara/)
- 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ayrtonvergara&show_icons=true&theme=dark&locale=es&layout=compact" alt="Top Langs" />
 </p>
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=ayrtonvergara&show_icons=true&theme=dark&locale=es" alt="GitHub Stats" />
+</p>
+
+---
+
+## 📱 Contáctame
+
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayrton-vergara/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ayrton.vergara.tech@gmail.com)
+
+---
+
+> _¡Gracias por visitar mi perfil!_
 
 
 
