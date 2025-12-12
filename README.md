@@ -6,11 +6,11 @@
 
 ## 👨‍💻 Sobre mí
 
-Soy un desarrollador **Full Stack** con experiencia en **Frontend** y **Backend**. He participado en el desarrollo completo de aplicaciones web y móvil en la nube ☁️.  
+Soy un desarrollador con experiencia en **Frontend**. He participado en el desarrollo completo de aplicaciones web y móvil en la nube ☁️.  
 Me formé en **Duoc UC** obteniendo el título de **Ingeniería en Informática**.  
 Me considero una persona sociable 🤝, empática 💛 y apasionada por la tecnología.
 
-- 🧠 Actualmente profundizando en **React** y **Angular** para expandir mis habilidades en frontend.
+- 🧠 Actualmente profundizando en **React**, para expandir mis habilidades en frontend.
 - 💎 Todos mis proyectos están en [Mis repositorios](https://github.com/ayrtonvergara?tab=repositories)
 - 📫 Puedes contactarme en **ayrton.vergara.tech@gmail.com**
 
