@@ -6,7 +6,7 @@
 
 ## 👨‍💻 Sobre mí
 
-Soy un desarrollador con experiencia en **Frontend**. He participado en el desarrollo completo de aplicaciones web y móvil en la nube ☁️.  
+Desarrollador con experiencia en **Frontend**. He participado en el desarrollo completo de aplicaciones web y móvil en la nube ☁️.  
 Me formé en **Duoc UC** obteniendo el título de **Ingeniería en Informática**.  
 Me considero una persona sociable 🤝, empática 💛 y apasionada por la tecnología.
 
